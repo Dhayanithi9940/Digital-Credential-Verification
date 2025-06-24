@@ -1,2 +1,3 @@
-# Digital-Credential-Verification
-The Project Is based on the to detect the digital certificate is tamper proof as well as secure storing using the blockchain technology and AI
+#Tamper Proof Digital Credential Verification Using Blockchain Technology And Capsule Siamese Networks
+📒 Overview
+This Project Aims To Overcome The Traditional Certificate Storing And Verification to Modernize the Secure Digital Credential(like Educational Certificate) Management By Using This Technologies are Blockchain And Capsule Siamese Networks And One time-Symmetric Key Encryption Using AES(Advanced Encryption Standard) Using Key Derivation Algorithm:PBKDF2HMAC(with SHA-256).This Processes by Offering The Robust,Scalable And tamper-Proof Solution For Issuing And Veriying The Educational Certificates.
